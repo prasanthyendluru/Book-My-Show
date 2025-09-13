@@ -1,5 +1,5 @@
 
-#  Book My Show - DevOps CI/CD Project
+##  Book My Show - DevOps CI/CD Project
 
 This project is a **Book My Show clone application** used for learning and demonstrating **DevOps practices** including:
 
